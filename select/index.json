@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Remember Summer Days",
+  "base_artist": "Anri",
+  "createdAt": "2026-03-06T02:15:30.045629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/01_Remember_Summer_Days_杏里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Bonus Track)",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/02_Remember_Summer_Days_(Bonus_Track)_杏里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Bonus Track)",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/03_Remember_Summer_Days_(Bonus_Track)_Anri.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/04_Remember_Summer_Days_Anri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/05_Remember_Summer_Days_杏里.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "ANRI",
+      "has_synced": false,
+      "path": "select/06_Remember_Summer_Days_ANRI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo feat. Anri",
+      "has_synced": true,
+      "path": "select/07_Remember_Summer_Days_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_feat._Anri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "YUKIKA",
+      "has_synced": true,
+      "path": "select/08_Remember_Summer_Days_YUKIKA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "유키카",
+      "has_synced": true,
+      "path": "select/09_Remember_Summer_Days_유키카.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/10_Remember_Summer_Days_Anri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo & Anri",
+      "has_synced": true,
+      "path": "select/11_Remember_Summer_Days_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_&_Anri.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "Shane Mesa feat. Anri",
+      "has_synced": true,
+      "path": "select/12_Remember_Summer_Days_Shane_Mesa_feat._Anri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Remember Summer Days",
+      "artist": "Shane Mesa, Anri",
+      "has_synced": true,
+      "path": "select/13_Remember_Summer_Days_Shane_Mesa,_Anri.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Cover from \"Anri\")",
+      "artist": "Nattalia Sarria",
+      "has_synced": true,
+      "path": "select/14_Remember_Summer_Days_(Cover_from__Anri_)_Nattalia_Sarria.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/15_Remember_Summer_Days_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember Summer Days",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_Summer_Days_杏里.txt"
+    }
+  ]
+}
